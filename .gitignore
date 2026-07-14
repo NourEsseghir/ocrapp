@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+backend/uploads/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+SETUP.md
